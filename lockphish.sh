@@ -1,7 +1,7 @@
 #!/bin/bash
 # Lockphish v1.1
-# Coded by: github.com/thelinuxchoice/lockphish
-# Twitter: @linux_choice
+# Coded by: github.com/alkr-hackheckz/lockphish
+# Twitter: @alkr-hackheckz
 # Read the License before using any part from this code.
 
 trap 'printf "\n";stop' 2
